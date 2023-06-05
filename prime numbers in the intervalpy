@@ -1,0 +1,21 @@
+print(" Enter the value of interval")
+print("a:")
+a=int(input())
+print("b:")
+b=int(input())
+
+print("the prime numbers are:")
+for i in range(a, b):
+    if i>1:
+        for n in range(2, i):
+            if (i%n)==0:
+                break
+            
+        else :
+           # L=[i,]
+            #print(L)
+            
+            print(i)
+            
+           
+ 

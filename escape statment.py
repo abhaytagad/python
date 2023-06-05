@@ -1,0 +1,1 @@
+print("farmer are good \n  it is right \n it is bad")

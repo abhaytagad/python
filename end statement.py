@@ -1,0 +1,1 @@
+print("Abhay is a good boy",  end=" than Asmita")
